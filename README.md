@@ -37,9 +37,9 @@ To model the price of houses with the available independent variables which is u
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Conclusions
-The Alpha of Lasso and Rige is 0.001 and 6
-The important features of Lasso are GrLivArea,OverallQual_9,OverallQual_8,KitchenAbvGr_1,Neighborhood_Crawfor
-The important features of Ridge are GrLivArea,OverallQual_9,OverallQual_8,Neighborhood_Crawfor,OverallCond_9
+- The Alpha of Lasso and Rige is 0.001 and 6
+- The important features of Lasso are GrLivArea,OverallQual_9,OverallQual_8,KitchenAbvGr_1,Neighborhood_Crawfor
+- The important features of Ridge are GrLivArea,OverallQual_9,OverallQual_8,Neighborhood_Crawfor,OverallCond_9
 
 
 
